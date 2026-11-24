@@ -1,0 +1,6 @@
+@APIcalculator_24._11._2026_HostAddress = http://localhost:5278
+
+GET {{APIcalculator_24._11._2026_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
